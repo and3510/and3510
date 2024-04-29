@@ -1,7 +1,6 @@
 <p align="center" >
 
-<img src="./assets/Anderson.jpg" style="width: 550; height: 200px; border-radius: 15px;display: flex;"> 
-
+<h1> Hi, I'm Anderson </h1>
 
 <h2 style="margin: auto;text-align: center; justify-content: center; align-items: center; display: flex;"> - - - - - - - - 💪 Skills - - - - - - - - </h2> 
 
