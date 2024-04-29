@@ -2,6 +2,8 @@
 
 <h1> Hi, I'm Anderson </h1>
 
+<br>
+
 <h2 style="margin: auto;text-align: center; justify-content: center; align-items: center; display: flex;"> - - - - - - - - 💪 Skills - - - - - - - - </h2> 
 
 <nav style="margin: auto; text-align: center;justify-content: center; align-items: center; display: flex;"> 
@@ -22,11 +24,14 @@
 
 </nav>
 
+<br>
+
 <div style="margin-left: 155px; justify-content: center; align-items: center; display:block; justify-content: center; align-items: center; display: flex;">
 
 
 ![sta1](https://github-readme-stats.vercel.app/api?username=and3510&theme=blue-green)
 
+<br>
 
 <div style="margin-left: 70px">
 
