@@ -1,4 +1,6 @@
 
+<img src="drawing.jpg" alt="drawing" width="200"/>
+
 <h1 style="text-align:center;"> Hi, I'm Anderson </h1>
 
 <br>
