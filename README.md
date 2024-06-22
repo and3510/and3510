@@ -1,11 +1,11 @@
 
-<img src="drawing.jpg" alt="drawing" width="200"/>
+<img src="./duck.jpeg" alt="drawing" width="200"/>
 
 <h1 style="text-align:center;"> Hi, I'm Anderson </h1>
 
 <br>
 
-<h2 style="margin: auto;text-align: center; justify-content: center; align-items: center; display: flex;"> - - - - - - - - 💪 Skills - - - - - - - - </h2> 
+<h2 style="margin: auto;text-align: center; justify-content: center; align-items: center; display: flex;"> - - - - - - - - 💪 Skills - - - - - - - - </h2>                                                                                                                          
 
 <nav style="margin: auto; text-align: center;justify-content: center; align-items: center; display: flex;"> 
 
