@@ -7,7 +7,7 @@
 
 
 
-<h2>💪 Skills;<h2>                                                                                                                          
+<h2>💪 Skills:<h2>                                                                                                                          
 
 <nav > 
 
@@ -20,7 +20,7 @@
 
 </nav>
 
-<h2 >📚 Knowledge</h2> 
+<h2 >📚 Knowledge:</h2> 
 
 <nav > 
 
@@ -42,7 +42,7 @@
         <img src="./duck.jpeg" alt="drawing" width="200"/>
     </td>
     <td>
-      <h3>Other places you can find me</h3>
+      <h3>Other places you can find me:</h3>
       <ul>
         <li>
           🤖 <a href="https://www.reddit.com/user/and3510/"
