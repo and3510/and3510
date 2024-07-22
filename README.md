@@ -1,13 +1,8 @@
 
-<img src="./duck.jpeg" alt="drawing" width="200"/>
-
 <h1 > Hi,I'm Anderson 🙋🏽‍♂️ </h1>
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/and.dovale/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-do-vale-b9749426b/)
-
 [![Tryhackme](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/anderson3510)
-
 [![Bugcrowd](https://img.shields.io/badge/-Bugcrowd-%23F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/and3510)
 
 
@@ -41,8 +36,28 @@
 
 
 
-
 <table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="border: 0";>
+        <img src="./duck.jpeg" alt="drawing" width="200"/>
+    </td>
+    <td>
+      <h3>Other places you can find me</h3>
+      <ul>
+        <li>
+          📷 <a href="https://www.instagram.com/and.dovale/">Follow me on instagram</a>
+        </li>
+        <li>
+          📬 <a href=mailto:and.dovale@gmail.com>Contact-me on email</a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=and3510&theme=discord_old_blurple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=and3510&theme=discord_old_blurple) | 
 | :-: | :-: |
@@ -52,7 +67,6 @@
 | :-: | :-: |
 
 
-</table>
 
 
 
