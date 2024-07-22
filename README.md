@@ -36,13 +36,13 @@
 
 
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="0" cellpadding="0" >
   <tr>
     <td style="border: 0";>
         <img src="./duck.jpeg" alt="drawing" width="200"/>
     </td>
     <td>
-      <h3>Other places you can find me </h3>
+      <h3>Other places you can find me</h3>
       <ul>
         <li>
           🤖 <a href="https://www.reddit.com/user/and3510/"
