@@ -1,13 +1,20 @@
 
 <img src="./duck.jpeg" alt="drawing" width="200"/>
 
-<h1 style="text-align:center;"> Hi, I'm Anderson </h1>
+<h1 > Hi,I'm Anderson 🙋🏽‍♂️ </h1>
 
-<br>
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/and.dovale/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-do-vale-b9749426b/)
 
-<h2 style="margin: auto;text-align: center; justify-content: center; align-items: center; display: flex;"> - - - - - - - - 💪 Skills - - - - - - - - </h2>                                                                                                                          
+[![Tryhackme](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/anderson3510)
 
-<nav style="margin: auto; text-align: center;justify-content: center; align-items: center; display: flex;"> 
+[![Bugcrowd](https://img.shields.io/badge/-Bugcrowd-%23F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/and3510)
+
+
+
+<h2> - - - - - - - - 💪 Skills - - - - - - - - <h2>                                                                                                                          
+
+<nav > 
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -18,9 +25,9 @@
 
 </nav>
 
-<h2 style="margin: auto;text-align: center; justify-content: center; align-items: center; display: flex;"> - - - - - - - - 📚 Knowledge - - - - - - - - </h2> 
+<h2 > - - - - - - - - 📚 Knowledge - - - - - - - - </h2> 
 
-<nav style="margin: auto; text-align: center;justify-content: center; align-items: center; display: flex;"> 
+<nav > 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
@@ -32,22 +39,20 @@
 
 </nav>
 
-<br>
-
-<div style="margin-left: 155px; justify-content: center; align-items: center; display:block; justify-content: center; align-items: center; display: flex;">
 
 
-![sta1](https://github-readme-stats.vercel.app/api?username=and3510&theme=blue-green)
 
-<br>
+<table border="0" cellspacing="0" cellpadding="0">
 
-<div style="margin-left: 70px">
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=and3510&theme=discord_old_blurple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=and3510&theme=discord_old_blurple) | 
+| :-: | :-: |
 
-![sta](https://github-readme-stats.vercel.app/api/top-langs/?username=and3510&theme=blue-green)
 
-</div>
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=and3510&theme=iceberg)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=and3510&theme=discord_old_blurple)|
+| :-: | :-: |
 
-</div>
+
+</table>
 
 
 
