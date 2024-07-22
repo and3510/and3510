@@ -42,13 +42,21 @@
         <img src="./duck.jpeg" alt="drawing" width="200"/>
     </td>
     <td>
-      <h3>Other places you can find me</h3>
+      <h3>Other places you can find me </h3>
       <ul>
+        <li>
+          🤖 <a href="https://www.reddit.com/user/and3510/"
+          >Follow me on reddit</a>
+        </li>
         <li>
           📷 <a href="https://www.instagram.com/and.dovale/">Follow me on instagram</a>
         </li>
         <li>
           📬 <a href=mailto:and.dovale@gmail.com>Contact-me on email</a>
+        </li>
+        <li>
+          🎧 <a href="https://www.reddit.com/user/and3510/"
+          >Contact-me on discord</a>
         </li>
       </ul>
     </td>
