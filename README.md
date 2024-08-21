@@ -40,7 +40,7 @@
 <table border="0" cellspacing="0" cellpadding="0" >
   <tr>
     <td style="border: 0";>
-        <img src="./duck.jpeg" alt="drawing" width="300" height="315" />
+        <img src="./duck.jpeg" alt="drawing" width="300" height="250" />
     </td>
     <td>
       <h3>Other places you can find me:</h3>
@@ -62,7 +62,7 @@
       </ul>
     </td>
     <td>
-      <img src="./coding.gif" alt="drawing" width="400" height="200"/> 
+      <img src="./coding.gif" alt="drawing" width="400" height="250"/> 
     </td>
   </tr>
 </table>
