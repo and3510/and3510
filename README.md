@@ -40,7 +40,7 @@
 <table border="0" cellspacing="0" cellpadding="0" >
   <tr>
     <td style="border: 0";>
-        <img src="./duck.jpeg" alt="drawing" width="200"/>
+        <img src="./duck.jpeg" alt="drawing" width="300"/>
     </td>
     <td>
       <h3>Other places you can find me:</h3>
@@ -60,6 +60,9 @@
           >Contact-me on discord</a>
         </li>
       </ul>
+    </td>
+    <td>
+      <img src="./coding.gif" alt="drawing" width="500"/> 
     </td>
   </tr>
 </table>
