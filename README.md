@@ -62,7 +62,7 @@
       </ul>
     </td>
     <td>
-      <img src="./coding.gif" alt="drawing" width="400" height="410"/> 
+      <img src="./coding.gif" alt="drawing" width="400" height="350"/> 
     </td>
   </tr>
 </table>
