@@ -40,7 +40,7 @@
 <table border="0" cellspacing="0" cellpadding="0" >
   <tr>
     <td style="border: 0";>
-        <img src="./duck.jpeg" alt="drawing" width="300"/>
+        <img src="./duck.jpeg" alt="drawing" width="300" height="350" />
     </td>
     <td>
       <h3>Other places you can find me:</h3>
