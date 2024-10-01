@@ -1,28 +1,30 @@
 
-<h1 > Hi,I'm Anderson 🙋🏽‍♂️ </h1>
+<h1 align="center"> Hi,I'm Anderson 🙋🏽‍♂️ </h1>
 
+<div align="center">
+  
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-do-vale-b9749426b/)
 [![Tryhackme](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/anderson3510)
 [![Bugcrowd](https://img.shields.io/badge/-Bugcrowd-%23F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/and3510)
 
+</div>
 
-
-<h2>💪 Skills:<h2>                                                                                                                          
-
-<nav > 
+<h2 align="center">💪 Skills:<h2>  
+  
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-CDD690?style=for-the-badge&logo=linux&logoColor=black)
 
-
+</div>
 
 </nav>
 
-<h2 >📚 Knowledge:</h2> 
+<h2 align="center">📚 Knowledge:</h2> 
 
-<nav > 
+<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Kali_linux](https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -33,7 +35,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
-</nav>
+</div>
 
 
 
