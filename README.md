@@ -7,16 +7,16 @@
 [![Tryhackme](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/anderson3510)
 [![Bugcrowd](https://img.shields.io/badge/-Bugcrowd-%23F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/and3510)
 
+
+
+
 </div>
 
 <h2 align="center">💪 Skills:<h2>  
   
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-CDD690?style=for-the-badge&logo=linux&logoColor=black)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,linux)](https://skillicons.dev)
 
 </div>
 
@@ -26,13 +26,7 @@
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Kali_linux](https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
-![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=javascript,kali,react,mysql,bash,django,git)](https://skillicons.dev)
 
 
 </div>
