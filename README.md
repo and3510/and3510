@@ -42,7 +42,7 @@
     <td style="border: 0";>
         <img src="./duck.jpeg" alt="drawing" width="300" height="250" />
     </td>
-    <td>
+    <td width="350px">
       <h3>Other places you can find me:</h3>
       <ul>
         <li>
