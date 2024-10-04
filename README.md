@@ -53,7 +53,7 @@
           📷 <a href="https://www.instagram.com/and.dovale/">Instagram - and.dovale</a>
         </li>
         <li>
-          📬 <a href="#">Email - and.dovale@gmail.com</a>
+          📬 <a href="#">Email and.dovale@gmail.com</a>
         </li>
         <li>
           🎧 <a href="#"
