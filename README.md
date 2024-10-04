@@ -39,10 +39,10 @@
 
 <table border="0" cellspacing="0" cellpadding="0" >
   <tr>
-    <td style="border: 0";>
+    <td style="border: 0"; width="250px">
         <img src="./duck.jpeg" alt="drawing" width="300" height="250" />
     </td>
-    <td width="350px">
+    <td width="300px">
       <h3>Other places you can find me:</h3>
       <ul>
         <li>
