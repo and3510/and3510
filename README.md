@@ -47,17 +47,17 @@
       <ul>
         <li>
           🤖 <a href="https://www.reddit.com/user/and3510/"
-          >Follow me on reddit</a>
+          >Reddit - and3510</a>
         </li>
         <li>
-          📷 <a href="https://www.instagram.com/and.dovale/">Follow me on instagram</a>
+          📷 <a href="https://www.instagram.com/and.dovale/">Instagram - and.dovale</a>
         </li>
         <li>
-          📬 <a href=mailto:and.dovale@gmail.com>Contact-me on email</a>
+          📬 <a href="#">Email - and.dovale@gmail.com</a>
         </li>
         <li>
-          🎧 <a href="https://www.reddit.com/user/and3510/"
-          >Contact-me on discord</a>
+          🎧 <a href="#"
+          > Discord - @and3872#6749 </a>
         </li>
       </ul>
     </td>
