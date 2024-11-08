@@ -17,6 +17,8 @@
 
 </div>
 
+
+
 <h2 align="center">💪 Skills:<h2>  
   
 <div align="center">
@@ -25,7 +27,6 @@
 
 </div>
 
-</nav>
 
 <h2 align="center">📚 Knowledge:</h2> 
 
@@ -36,7 +37,7 @@
 
 </div>
 
-
+---
 
 <table border="0" cellspacing="0" cellpadding="0" >
   <tr>
