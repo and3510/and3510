@@ -33,7 +33,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=kali,react,typescript,bash,django,postman,arduino,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kali,react,typescript,bash,django,postman,arduino,java,ubuntu)](https://skillicons.dev)
 
 
 </div>
