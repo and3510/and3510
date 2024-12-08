@@ -24,7 +24,7 @@
   
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,python,html,css,linux,git,docker,mysql,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,python,html,css,linux,git,docker,mysql,figma)](https://skillicons.dev)
 
 </div>
 
@@ -33,7 +33,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=kali,react,typescript,bash,django,postman,arduino,java,ubuntu,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kali,react,bash,django,postman,arduino,java,ubuntu,firebase)](https://skillicons.dev)
 
 
 </div>
