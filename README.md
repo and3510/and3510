@@ -74,15 +74,6 @@
 
 
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=and3510&theme=discord_old_blurple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=and3510&theme=discord_old_blurple) | 
-| :-: | :-: |
-
-
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=and3510&theme=iceberg)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=and3510&theme=discord_old_blurple)|
-| :-: | :-: |
-
-
-
 
 
 
