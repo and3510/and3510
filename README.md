@@ -24,7 +24,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=github,java,python,html,css,linux,ubuntu,fastapi)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,windows,postman,flutter,git,docker,figma,vscode,idea,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,windows,postman,flutter,git,docker,k8s,figma,vscode,idea,gitlab)](https://skillicons.dev)
 
 
 </div>
@@ -34,7 +34,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,react,kali,bash,k8s,django,arduino,mysql,nginx,dart,postgres,redis,rabbitmq)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,react,kali,bash,django,arduino,mysql,nginx,dart,postgres,redis,rabbitmq)](https://skillicons.dev)
 
 
 </div>
