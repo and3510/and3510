@@ -9,8 +9,7 @@
 
 [![Portfolio](https://img.shields.io/badge/MY%20PORTFOLIO-blue?style=for-the-badge&color=%23ee1611)](https://and3510.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-do-vale-b9749426b/)
-[![Bugcrowd](https://img.shields.io/badge/-Bugcrowd-%23F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/and3510)
-[![Static Badge](https://img.shields.io/badge/BEECROWD-red?style=for-the-badge&logo=beecrowd&logoColor=purple&labelColor=purple&color=%23e7ee11)](https://judge.beecrowd.com/pt/profile/813043)
+
 
 
 
