@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/MY%20PORTFOLIO-blue?style=for-the-badge&color=%23ee1611)](https://and3510.github.io/)
+[![Portfolio](https://img.shields.io/badge/MY%20LINKTREE-blue?style=for-the-badge&color=%23ee1611)](https://anderson.ajvale.com.br/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-do-vale-b9749426b/)
 
 
