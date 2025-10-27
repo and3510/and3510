@@ -22,7 +22,7 @@
   
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=github,java,python,html,css,linux,ubuntu,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,java,python,html,css,linux,ubuntu,fastapi,ansible)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=firebase,windows,postman,flutter,git,docker,k8s,figma,vscode,idea,gitlab)](https://skillicons.dev)
 
