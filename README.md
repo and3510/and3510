@@ -43,28 +43,6 @@
 
 <table border="0" cellspacing="0" cellpadding="0" >
   <tr>
-    <td style="border: 0"; width="250px">
-        <img src="./duck.jpeg" alt="drawing" width="300" height="250" />
-    </td>
-    <td width="300px">
-      <h3>Other places you can find me:</h3>
-      <ul>
-        <li>
-          🤖 <a href="https://www.reddit.com/user/and3510/"
-          >Reddit - and3510</a>
-        </li>
-        <li>
-          📷 <a href="https://www.instagram.com/and.dovale/">Instagram - and.dovale</a>
-        </li>
-        <li>
-          📬 <a href="#">Email and.dovale@gmail.com</a>
-        </li>
-        <li>
-          🎧 <a href="#"
-          > Discord - @and3872#6749 </a>
-        </li>
-      </ul>
-    </td>
     <td>
       <img src="./coding.gif" alt="drawing" width="350" height="250"/> 
     </td>
