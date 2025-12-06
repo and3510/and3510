@@ -39,16 +39,6 @@
 
 </div>
 
----
-
-<table border="0" cellspacing="0" cellpadding="0" >
-  <tr>
-    <td>
-      <img src="./coding.gif" alt="drawing" width="350" height="250"/> 
-    </td>
-  </tr>
-</table>
-
 
 
 
