@@ -14,51 +14,24 @@
 
 </div>
 
+---
 
 <h2 align="center">⚙️ Pilares de DevOps & Infraestrutura</h2>  
+<p align="center"><i>Automação • CI/CD • Cloud • Containers • Redes • Bancos de Dados</i></p>
 
-<h3 align="center">Automação, CI/CD & Versionamento</h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,ansible,bash" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,ansible,bash,docker,k8s,terraform,linux,ubuntu,kali,windows,nginx,postgres,mysql,redis,rabbitmq,firebase&perline=9" />
   </a>
 </div>
 
-<h3 align="center">Cloud, Containers & Sistemas Operacionais</h3>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,k8s,terraform,linux,ubuntu,kali,windows" />
-  </a>
-</div>
-
-<h3 align="center">Redes, Bancos de Dados & Mensageria</h3>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nginx,postgres,mysql,redis,rabbitmq,firebase" />
-  </a>
-</div>
-
-
+---
 
 <h2 align="center">💻 Ecossistema de Desenvolvimento</h2>  
+<p align="center"><i>Backend • Frontend • Mobile • APIs • Ferramentas</i></p>
 
-<h3 align="center">Backend & APIs</h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,fastapi,django" />
-  </a>
-</div>
-
-<h3 align="center">Frontend & Mobile</h3>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,react,html,css,flutter,dart" />
-  </a>
-</div>
-
-<h3 align="center">Ferramentas, IDEs & Outros</h3>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma,arduino" />
+    <img src="https://skillicons.dev/icons?i=java,python,fastapi,django,typescript,javascript,react,html,css,flutter,dart,vscode,idea,postman,figma,arduino&perline=8" />
   </a>
 </div>
