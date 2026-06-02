@@ -10,8 +10,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-do-vale-b9749426b/)
 
 <br>
-<i>Ajudando equipes a entregar software de forma rápida, segura e escalável através de Plataformas de Desenvolvedores Internas (IDPs), automação de infraestrutura e esteiras robustas.</i>
-
+<i>Ajudando equipes a entregar software de forma rápida, segura e escalável através da cultura DevOps, automação e melhoria contínua.</i>
 </div>
 
 ---
