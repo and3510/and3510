@@ -1,10 +1,5 @@
 <div align="center">
 
-<!--
-  📌 IMPORTANTE: suba o arquivo `pixel-banner.svg` (que gerei junto) para
-  a pasta `assets/` do seu repositório <seu-usuario>/<seu-usuario>
-  e o caminho abaixo funcionará automaticamente.
--->
 <img src="./assets/pixel-banner.svg" alt="Anderson do Vale — DevOps Engineer" width="100%" />
 
 <br>
@@ -16,7 +11,6 @@
 <br><br>
 
 [![Portfolio](https://img.shields.io/badge/MY%20LINKTREE-ee1611?style=for-the-badge&logo=linktree&logoColor=white)](https://linktree.ajvale.com.br/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-do-vale-b9749426b/)
 
 </div>
 
