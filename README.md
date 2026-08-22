@@ -36,10 +36,6 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=and3510&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=and3510&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39D353" />
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=and3510&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353" />
