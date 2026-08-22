@@ -62,14 +62,6 @@
   <img src="https://raw.githubusercontent.com/and3510/and3510/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
 
-<details>
-<summary>Como ativar a snake animation (clique para expandir)</summary>
-
-1. Crie o arquivo `.github/workflows/snake.yml` no repositório `and3510/and3510`.
-2. Use a action [`Platane/snk`](https://github.com/Platane/snk) — ela lê seu histórico de contribuições e gera o SVG automaticamente todo dia.
-3. Depois de rodar uma vez, o link acima passa a mostrar a cobra "comendo" seus commits.
-
-</details>
 
 <br>
 
