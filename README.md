@@ -52,7 +52,6 @@
   <img src="https://streak-stats.demolab.com/?user=and3510&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353" />
 </div>
 
-> Troque `and3510` pelo seu usuário do GitHub em todas as URLs acima.
 
 <br>
 
@@ -65,13 +64,6 @@
 
 <br>
 
-## 🏆 Troféus
-
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=and3510&theme=dracula&no-frame=true&no-bg=true&margin-w=10&row=1" />
-</div>
-
-<br>
 
 
 <div align="center">
