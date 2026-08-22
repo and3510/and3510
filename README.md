@@ -73,15 +73,28 @@
 
 <br>
 
-## 🔗 Integrações que combinam com esse perfil
+## 🏆 Troféus
 
-| Ferramenta | O que faz | Link |
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=and3510&theme=dracula&no-frame=true&no-bg=true&margin-w=10&row=1" />
+</div>
+
+<br>
+
+## 👀 Visitas ao perfil
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=and3510&style=for-the-badge&color=39D353&label=PROFILE+VIEWS" />
+</div>
+
+<br>
+
+## 🔗 Outras integrações (precisam de setup)
+
+| Ferramenta | O que faz | Setup |
 |---|---|---|
-| **Wakatime** | Mostra horas de código por linguagem na semana | [wakatime.com](https://wakatime.com) |
-| **Spotify Now Playing** | Exibe a música que você está ouvindo | [novatorem](https://github.com/novatorem/novatorem) |
-| **Visitor Badge** | Contador de visitas ao perfil | [visitor-badge](https://github.com/jwenjian/visitor-badge) |
-| **GitHub Trophies** | Troféus de atividade (PRs, stars, etc) | [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) |
-| **Capsule Render** | Banners animados (ondas, gradiente etc) | [capsule-render](https://github.com/kyechan99/capsule-render) |
+| **Wakatime** | Mostra horas de código por linguagem na semana | Crie conta em [wakatime.com](https://wakatime.com), instale a extensão no seu editor e depois de alguns dias de uso, use [wakatime-badge](https://github.com/athul/waka-readme) pra gerar o gráfico automaticamente via Action |
+| **Spotify Now Playing** | Exibe a música que você está ouvindo em tempo real | Faça fork de [novatorem](https://github.com/novatorem/novatorem), conecte sua conta Spotify e faça deploy grátis na Vercel — o link gerado vira uma tag `<img>` |
 
 <br>
 
