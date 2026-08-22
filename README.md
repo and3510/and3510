@@ -73,22 +73,6 @@
 
 <br>
 
-## 👀 Visitas ao perfil
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=and3510&style=for-the-badge&color=39D353&label=PROFILE+VIEWS" />
-</div>
-
-<br>
-
-## 🔗 Outras integrações (precisam de setup)
-
-| Ferramenta | O que faz | Setup |
-|---|---|---|
-| **Wakatime** | Mostra horas de código por linguagem na semana | Crie conta em [wakatime.com](https://wakatime.com), instale a extensão no seu editor e depois de alguns dias de uso, use [wakatime-badge](https://github.com/athul/waka-readme) pra gerar o gráfico automaticamente via Action |
-| **Spotify Now Playing** | Exibe a música que você está ouvindo em tempo real | Faça fork de [novatorem](https://github.com/novatorem/novatorem), conecte sua conta Spotify e faça deploy grátis na Vercel — o link gerado vira uma tag `<img>` |
-
-<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" />
