@@ -44,28 +44,28 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39D353" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=and3510&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=and3510&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=39D353" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=SEU_USUARIO&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353" />
+  <img src="https://streak-stats.demolab.com/?user=and3510&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353" />
 </div>
 
-> Troque `SEU_USUARIO` pelo seu usuário do GitHub em todas as URLs acima.
+> Troque `and3510` pelo seu usuário do GitHub em todas as URLs acima.
 
 <br>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/and3510/and3510/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
 
 <details>
 <summary>Como ativar a snake animation (clique para expandir)</summary>
 
-1. Crie o arquivo `.github/workflows/snake.yml` no repositório `SEU_USUARIO/SEU_USUARIO`.
+1. Crie o arquivo `.github/workflows/snake.yml` no repositório `and3510/and3510`.
 2. Use a action [`Platane/snk`](https://github.com/Platane/snk) — ela lê seu histórico de contribuições e gera o SVG automaticamente todo dia.
 3. Depois de rodar uma vez, o link acima passa a mostrar a cobra "comendo" seus commits.
 
