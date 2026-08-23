@@ -10,7 +10,8 @@
 
 <br><br>
 
-[![Portfolio](https://img.shields.io/badge/MY%20LINKTREE-ee1611?style=for-the-badge&logo=linktree&logoColor=white)](https://linktree.ajvale.com.br/)
+<!-- GitHub Stats -->
+<img src="https://streak-stats.demolab.com/?user=and3510&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353" alt="GitHub Streak" />
 
 </div>
 
@@ -33,27 +34,6 @@
 </div>
 
 <br>
-
-## 📊 GitHub Stats
-
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=and3510&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353" />
-</div>
-
-
-<br>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/and3510/and3510/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-</div>
-
-
-<br>
-
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" />
