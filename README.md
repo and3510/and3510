@@ -8,10 +8,7 @@
 
 <i>Ajudando equipes a entregar software de forma rápida, segura e escalável através da cultura DevOps, automação e melhoria contínua.</i>
 
-<br><br>
 
-<!-- GitHub Stats -->
-<img src="https://streak-stats.demolab.com/?user=and3510&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353" alt="GitHub Streak" />
 
 </div>
 
