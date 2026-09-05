@@ -27,7 +27,7 @@
 <p align="center"><i>Backend • Frontend • Mobile • APIs • Ferramentas</i></p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,fastapi,django,typescript,javascript,react,html,css,flutter,dart,vscode,idea,postman,figma,arduino&perline=8" />
+  <img src="https://skillicons.dev/icons?i=spring,java,python,fastapi,django,typescript,javascript,react,html,css,flutter,dart,vscode,postman,vim&perline=8" />
 </div>
 
 <br>
