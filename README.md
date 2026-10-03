@@ -18,7 +18,7 @@
 <p align="center"><i>Automação • CI/CD • Cloud • Containers • Redes • Bancos de Dados</i></p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,ansible,bash,docker,k8s,terraform,linux,ubuntu,kali,windows,nginx,postgres,mysql,redis,rabbitmq,firebase&perline=9" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,ansible,bash,docker,k8s,terraform,linux,ubuntu,kali,windows,nginx,postgres,mysql,redis,rabbitmq,firebase,openshift,sentry,grafana,debian,prometheus&perline=9" />
 </div>
 
 <br>
@@ -27,7 +27,7 @@
 <p align="center"><i>Backend • Frontend • Mobile • APIs • Ferramentas</i></p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=spring,java,python,fastapi,django,typescript,javascript,react,html,css,flutter,dart,vscode,postman,vim&perline=8" />
+  <img src="https://skillicons.dev/icons?i=spring,java,python,fastapi,django,typescript,javascript,react,vscode,postman,golang&perline=8" />
 </div>
 
 <br>
@@ -35,3 +35,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" />
 </div>
+
+
+<img src="./assets/icons/aws.svg" height="40" alt="AWS" />
