@@ -37,4 +37,3 @@
 </div>
 
 
-<img src="./assets/icons/aws.svg" height="40" alt="AWS" />
